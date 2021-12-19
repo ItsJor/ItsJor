@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jordan Lin, a computer science major with a cybersecurity minor at Fordham University. 
-- 🌱 Learning web development at the moment! 
+- 👋 Hi, I’m Jordan!
 
 <!---
 ItsJor/ItsJor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
