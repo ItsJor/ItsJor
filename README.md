@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Jordan!
+- Visit my website ====> ItsJor.github.io
+
 
 <!---
 ItsJor/ItsJor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
