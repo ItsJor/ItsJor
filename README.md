@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan!
-- Visit my website ====> https://itsjor.github.io/Profile
+- Visit my website ====> https://itsjor.github.io/profile/
 
 
 <!---
